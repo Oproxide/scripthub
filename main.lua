@@ -13,4 +13,6 @@ if id == 135406051460913 then
   lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/runhidefight")
 elseif id == 102829972707814 then
   lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/civilizationsurvival")
+else
+  lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/hub")
 end
