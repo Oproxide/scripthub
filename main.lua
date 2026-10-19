@@ -10,9 +10,9 @@ function lazy(which)
 end
 
 if id == 135406051460913 then
-  lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/runhidefight")
+  lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/hub")
 elseif id == 102829972707814 then
-  lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/civilizationsurvival")
+  lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/hub")
 else
   lazy("https://raw.githubusercontent.com/Oproxide/scripthub/refs/heads/main/hub")
 end
